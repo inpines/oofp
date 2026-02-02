@@ -3,7 +3,7 @@
 **Object-Oriented Functional Programming**
 
 This project explores how to model **functional-style behavior**
-within **object-oriented structures**, with a strong emphasis on:
+within **object-oriented structures**, with a strong emphasis on: 
 
 - explicit responsibilities
 - composable behavior
